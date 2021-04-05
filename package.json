@@ -1,5 +1,5 @@
 {
-  "name": "@toruslabs/tweetnacl",
+  "name": "@toruslabs/tweetnacl-js",
   "version": "1.0.3",
   "description": "Port of TweetNaCl cryptographic library to JavaScript",
   "main": "nacl-fast.js",

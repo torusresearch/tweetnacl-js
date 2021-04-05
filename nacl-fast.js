@@ -2133,6 +2133,7 @@ nacl.lowlevel = {
   gf: gf,
   D: D,
   L: L,
+  pack: pack,
   pack25519: pack25519,
   unpack25519: unpack25519,
   M: M,
@@ -2144,7 +2145,7 @@ nacl.lowlevel = {
   set25519: set25519,
   modL: modL,
   scalarmult: scalarmult,
-  scalarbase: scalarbase,
+  scalarbase: scalarbase
 };
 
 /* High-level API */
