@@ -7,6 +7,7 @@
   "directories": {
     "test": "test"
   },
+  "sideEffects": false,
   "scripts": {
     "build": "uglifyjs nacl.js -c -m -o nacl.min.js && uglifyjs nacl-fast.js -c -m -o nacl-fast.min.js",
     "test-node": "tape test/*.js | faucet",
@@ -45,9 +46,9 @@
     "eslint": "^8.46.0",
     "faucet": "^0.0.4",
     "tap-browser-color": "^0.1.2",
-    "tape": "^5.6.6",
+    "tape": "^5.8.1",
     "tweetnacl-util": "^0.15.1",
-    "uglify-js": "^3.17.4"
+    "uglify-js": "^3.18.0"
   },
   "browser": {
     "buffer": false,
