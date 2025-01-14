@@ -1,20 +1,34 @@
-# Important!
+<!--- Provide a general summary of your changes in the Title above -->
+## Motivation and Context
+<!--- Why is this change required? What problem does it solve? -->
+<!--- If it fixes an open issue, please link to the issue here. -->
 
-If your contribution is not trivial (not a typo fix, etc.), we can only accept
-it if you dedicate your copyright for the contribution to the public domain.
-Make sure you understand what it means (see http://unlicense.org/)! If you
-agree, please add yourself to AUTHORS.md file, and include the following text
-to your pull request description or a comment in it:
+Jira Link:
 
-------------------------------------------------------------------------------
 
-    I dedicate any and all copyright interest in this software to the
-    public domain. I make this dedication for the benefit of the public at
-    large and to the detriment of my heirs and successors. I intend this
-    dedication to be an overt act of relinquishment in perpetuity of all
-    present and future rights to this software under copyright law.
+## Description
+<!--- Describe your changes in detail -->
 
-    Anyone is free to copy, modify, publish, use, compile, sell, or
-    distribute this software, either in source code form or as a compiled
-    binary, for any purpose, commercial or non-commercial, and by any
-    means.
+## How has this been tested?
+<!--- Please describe in detail how you tested your changes. -->
+<!--- Include details of your testing environment, tests ran to see how -->
+<!--- your change affects other areas of the code, etc. -->
+Add to repo and check eslint work
+
+## Screenshots (if appropriate):
+
+## Types of changes
+<!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
+- [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] New feature (non-breaking change which adds functionality)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
+
+## Checklist:
+<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
+<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+- [ ] My code follows the code style of this project. (run lint)
+- [ ] My change requires a change to the documentation.
+- [ ] I have updated the documentation accordingly.
+- [ ] I have added tests to cover my changes.
+- [ ] All new and existing tests passed.
+- [ ] My code requires a db migration.
