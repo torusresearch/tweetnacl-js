@@ -42,7 +42,7 @@
   },
   "homepage": "https://tweetnacl.js.org",
   "devDependencies": {
-    "@toruslabs/eslint-config-javascript": "^4.0.3",
+    "@toruslabs/eslint-config-javascript": "^4.0.4",
     "browserify": "^17.0.1",
     "eslint": "^9.18.0",
     "faucet": "^0.0.4",
